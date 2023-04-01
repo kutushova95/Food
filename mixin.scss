@@ -1,0 +1,10 @@
+@mixin center{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+@mixin footer{
+  display: flex;
+  align-items: center;
+}
